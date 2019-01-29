@@ -1,4 +1,4 @@
-# Python-DataStructures
+# Python-DataStructures & Algorithms
 Data structures and algorithms implemented in python
 
 ## Data Structures
