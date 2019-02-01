@@ -12,3 +12,4 @@ Data structures and algorithms implemented in python
 * Selection Sort
 * Bubble Sort
 * Optimised Bubble Sort
+* Merge Sort
