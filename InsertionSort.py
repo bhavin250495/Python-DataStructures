@@ -9,7 +9,7 @@ def insertion_sort(array):
     
         for i in range(1,len(array)):
             if array[i] < array[i-1]:
-                print(i)
+     
                 hole = i
                 key = array[hole]
                 while array[hole - 1]>key:
