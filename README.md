@@ -16,7 +16,7 @@ Data structures and algorithms implemented in python
 * Quick Sort
 * Insertion Sort
 
-## Problem Soultions
+## Problem Solutions
 
 * Balanced Parantheses
 
