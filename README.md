@@ -20,4 +20,5 @@ Data structures and algorithms implemented in python
 ## Problem Solutions
 
 * Balanced Parantheses
+* inFix To PostFix
 
