@@ -6,6 +6,7 @@ Data structures and algorithms implemented in python
 * Binary Search Tree
 * Linked List
 * Stacks
+* Graphs (BFS and DFS Traversal)
 
 ## Sorting Algorithms
 
